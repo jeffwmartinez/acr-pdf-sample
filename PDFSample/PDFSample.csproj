@@ -155,8 +155,7 @@
     <None Include=".dockerignore">
       <DependentUpon>Dockerfile</DependentUpon>
     </None>
-    <None Include="Properties\PublishProfiles\apwIgnite2018PDFWebSample - FTP.pubxml" />
-    <None Include="Properties\PublishProfiles\apwIgnite2018PDFWebSample - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\acrtaskreg.pubxml" />
     <None Include="Properties\PublishProfiles\PDFSampleBuildPreDay - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\registry.hub.docker.com_apwestgarth.pubxml" />
     <None Include="Properties\PublishProfiles\WebAppvsXenonPDFSample - Web Deploy.pubxml" />
